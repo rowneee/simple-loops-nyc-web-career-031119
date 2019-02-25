@@ -10,7 +10,8 @@ def loop_iterator(number_of_times)
   end
 end
 
-loop_iterator(7)
+# loop_iterator(7)
+
   # This and all the other methods take an argument of an integer 
   # The integer is the number of times the loops should puts out the phrase
   # How can we make sure the loop breaks once it has puts out the phrase the 
@@ -26,7 +27,7 @@ def times_iterator(number_of_times)
   end
 end
 
-times_iterator(7)
+# times_iterator(7)
 
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
@@ -39,7 +40,7 @@ def while_iterator(number_of_times)
   end
 end
 
-while_iterator(7)
+# while_iterator(7)
 
 def until_iterator(number_of_times)
   # code your solution here using the "until" keyword
